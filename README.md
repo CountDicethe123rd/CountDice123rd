@@ -6,7 +6,7 @@ Kathmandu, Nepal | [LinkedIn](https://linkedin.com/in/aadityamansingh)
 ---
 
 ## 1. 🌟 About Me
-I’m a Business Execution Specialist with experience across **CPaaS/SaaS platforms, finance, and impact-driven organizations**.  
+I’m a Business Specialist with experience across **CPaaS/SaaS platforms, finance, and impact-driven organizations**.  
 My journey spans customer onboarding, investment analysis, and operations execution across APAC markets.  
 Currently, I’m pursuing advanced analytics with a vision to **pivot into Quantitative Finance**.
 
